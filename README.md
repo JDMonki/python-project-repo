@@ -1,1 +1,1 @@
-This is my first public repo for Pythong Project
+This is my first public repo for Python Project
